@@ -1,0 +1,5 @@
+include
+build
+../root/include
+tests
+demos

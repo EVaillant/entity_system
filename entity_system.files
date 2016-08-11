@@ -1,0 +1,17 @@
+demos/CMakeLists.txt
+tests/CMakeLists.txt
+CMakeLists.txt
+config.h.in
+Doxyfile.in
+entity_system.pc.in
+LICENSE_1_0.txt
+README.md
+include/entity_system/forwards.hpp
+include/entity_system/event_dispatcher.hpp
+include/entity_system/segment.hpp
+include/entity_system/entity_system.hpp
+tests/test_segment.cc
+tests/test_event_dispatcher.cc
+tests/test_entity_system.cc
+demos/helper_allegro.hpp
+demos/snake.cc

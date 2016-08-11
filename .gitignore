@@ -1,0 +1,12 @@
+# build dir
+build
+
+*.project
+*.swp
+
+# qtcreator project file
+*.files
+*.config
+*.creator
+*.creator.user
+*.includes
